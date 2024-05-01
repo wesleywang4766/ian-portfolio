@@ -57,16 +57,15 @@ const jobPositions = [
     logo: "vention",
     previousPositions: [""],
     description:
-      "Developed and optimized a 3D psychological horror game, upgraded games to Unity 5, and improved both performance and graphics quality.",
+      "Participated in migrating to a microservice architecture, implemented authentication and authorization, demonstrated strong teamwork, and communication skills, examined system flow, and analyzed runtime performance to ensure system efficiency and availability.",
     skills: [
-      "Game development",
-      "Game Engine",
-      "AI programming",
-      "Graphics programming",
-      "Performance tuning",
+      "Microservice Architecture",
+      "Auth Implementation",
+      "Agile Development",
+      "Teamwork & Communication",
+      "Performance Optimization",
       "Version migration",
-      "Shader editing",
-      "UI/UX Design",
+      "System Analysis",
     ],
   },
   {
@@ -76,10 +75,11 @@ const jobPositions = [
     logo: "fortunestech",
     previousPositions: [""],
     description:
-      "Take part in the development of single-page applications, created adaptive web solutions for various business needs, including eCommerce and CRM platforms.",
+      "Developed web applications using JavaScript frameworks, Laravel, Django, Flask, Spring, Drupal, and WordPress, ensuring pixel-perfect design implementation, responsive pages, adherence to best practices, and clean, well-documented code.",
     skills: [
-      "SPA development",
-      "Responsive design",
+      "MERN Stack",
+      "Responsive web development",
+      "Pixel-perfect design implementation",
       "Client-side scripting",
       "CMS customization",
       "eCommerce development",

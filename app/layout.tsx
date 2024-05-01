@@ -13,16 +13,16 @@ export const metadata: Metadata = {
   },
   title: "Ian Harding",
   description:
-    "Ian Harding is a Full Stack Software Engineer, Team Lead, and Unity Expert.",
+    "Ian Harding is a Full Stack Software Engineer with 12 years of experience",
   keywords:
-    "Ian Harding, Full Stack Engineer, Team Lead, Web Development, VR/AR, 3D Game Development, Software Engineering, Unity",
+    "Ian Harding, Full Stack Engineer, Team Lead, Web Development, Mobile App Development, Software Engineering, Unity",
   openGraph: {
     locale: "en_US",
     siteName: "Ian Harding",
     type: "website",
     title: "Ian Harding",
     description:
-      "Ian Harding is a Full Stack Software Engineer, Team Lead, and Unity Expert.",
+      "Ian Harding is a Full Stack Software Engineer with 12 years of experience",
     url: "https://meikopoulos.com",
     images: [
       {

@@ -58,11 +58,11 @@ export default function Nav() {
           Hi, I&#39;m Ian Harding
         </h1>
         <h2 className="text-xl lg:text-start">
-          Full Stack Software Engineer, Team Lead, and Unity Expert
+          Full Stack Software Engineer with 10+ years of experience
         </h2>
         <p className="text-lg lg:text-start text-muted-foreground">
           I specializes in pushing the boundaries of technology to create
-          cutting-edge websites and captivating gaming experiences.
+          cutting-edge websites.
         </p>
       </div>
       <nav className="lg:flex hidden">

@@ -19,9 +19,10 @@ export default function About() {
         <p className="text-start  text-muted-foreground lg:px-6">
           In this ever-evolving landscape, I have honed my craft to specialize
           in crafting awe-inspiring websites that leave a lasting impression and
-          immersive gaming experiences that transport players to extraordinary
-          realms. With each project, I embark on a thrilling journey, pushing
-          the boundaries of technology to create something truly extraordinary.
+          immersive mobile app experiences that transport players to
+          extraordinary realms. With each project, I embark on a thrilling
+          journey, pushing the boundaries of technology to create something
+          truly extraordinary.
         </p>
         <p className="text-start text-muted-foreground lg:px-6">
           Outside of work, I&#39;m an avid reader of blockchain and deep

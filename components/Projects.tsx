@@ -31,6 +31,22 @@ const jobProjects = [
   },
   {
     imagePath: "/portfolio2.jpg",
+    title: "Betting Odds Comparison and Analysis",
+    description:
+      "Provides a comprehensive comparison and analysis of betting odds. It offers users the ability to compare odds from various bookmakers, helping them make informed decisions when placing bets.",
+    skills: [
+      "React.js",
+      "MUI",
+      "Django",
+      "PostgreSQL",
+      "Jest",
+      "Cypress",
+      "Git",
+    ],
+    link: "https://simpleodds.com",
+  },
+  {
+    imagePath: "/portfolio3.jpg",
     title: "AI Colors: AI Palette Generator",
     description:
       "I was responsible for developing the user-friendly interface, robust APIs that can handle large volumes, and deploying machine learning models, making it easy to explore, customize, and implement beautiful color schemes seamlessly.",
@@ -45,22 +61,6 @@ const jobProjects = [
       "Fastly",
     ],
     link: "https://aicolors.co",
-  },
-  {
-    imagePath: "/portfolio3.jpg",
-    title: "The Inner Friend: 3D psychological horror game",
-    description:
-      "Fantastic psychological horror game where players descend into the subconscious of a character haunted by childhood traumas. The gameplay involves exploring eerie, dreamlike environments to confront and overcome past fears and memories.",
-    skills: [
-      "Unity Engine",
-      "Blender",
-      "Photoshop",
-      "NGUI",
-      "Amplify Shader Editor",
-      "Behavior Designer",
-      "Git",
-    ],
-    link: "https://playmind.com/ipgames/the-inner-friend/",
   },
 ];
 
