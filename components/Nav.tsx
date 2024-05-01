@@ -55,7 +55,7 @@ export default function Nav() {
           </Avatar>
         </div>
         <h1 className="text-[42px] font-bold lg:text-start">
-          Hi, I&#39;m Sean Lyons
+          Hi, I&#39;m Ian Harding
         </h1>
         <h2 className="text-xl lg:text-start">
           Full Stack Software Engineer, Team Lead, and Unity Expert
@@ -94,7 +94,7 @@ export default function Nav() {
         </Button>
         <Button variant="outline" size="icon">
           <a
-            href="https://linkedin.com/in/sean-lyons-365122306/"
+            href="https://linkedin.com/in/ian-harding-823637306/"
             target="_blank"
             rel="noopener noreferrer"
           >

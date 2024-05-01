@@ -14,7 +14,7 @@ import { useTheme } from "next-themes";
 
 const jobPositions = [
   {
-    timeline: "Jun 2021 — Present",
+    timeline: "Oct 2020 — Present",
     currentPosition: "Senior Software Engineer",
     place: "QualityIT",
     logo: "qualityit",
@@ -33,13 +33,13 @@ const jobPositions = [
     ],
   },
   {
-    timeline: "Jun 2019 — Jun 2021",
-    currentPosition: "Software Engineer",
-    place: "Thoughtworks",
-    logo: "thoughtworks",
+    timeline: "Aug 2017 — Sep 2020",
+    currentPosition: "Full Stack Developer",
+    place: "Simple Odds",
+    logo: "simpleodds",
     previousPositions: [],
     description:
-      "Enhanced application integrations for payments and social media, optimized web pages for search engines, and developed scalable multi-platform applications.",
+      "Enhanced application integrations for payments and social media, optimized web pages for search engines, and developed scalable sports betting platform.",
     skills: [
       "Front-end development",
       "Back-end development",
@@ -51,10 +51,10 @@ const jobPositions = [
     ],
   },
   {
-    timeline: "Nov 2015 - May 2019",
-    currentPosition: "Unity Developer",
-    place: "Playmind",
-    logo: "playmind",
+    timeline: "Apr 2014 - Jul 2017",
+    currentPosition: "Backend Developer",
+    place: "Vention",
+    logo: "vention",
     previousPositions: [""],
     description:
       "Developed and optimized a 3D psychological horror game, upgraded games to Unity 5, and improved both performance and graphics quality.",
@@ -71,9 +71,9 @@ const jobPositions = [
   },
   {
     timeline: "Sep 2012 - Nov 2015",
-    currentPosition: "Web Developer",
-    place: "Genatec",
-    logo: "genatec",
+    currentPosition: "Backend Developer",
+    place: "Fortunes Tech",
+    logo: "fortunestech",
     previousPositions: [""],
     description:
       "Take part in the development of single-page applications, created adaptive web solutions for various business needs, including eCommerce and CRM platforms.",

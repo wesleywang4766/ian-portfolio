@@ -11,18 +11,18 @@ export const metadata: Metadata = {
   alternates: {
     canonical: "https://meikopoulos.com",
   },
-  title: "Sean Lyons",
+  title: "Ian Harding",
   description:
-    "Sean Lyons is a Full Stack Software Engineer, Team Lead, and Unity Expert.",
+    "Ian Harding is a Full Stack Software Engineer, Team Lead, and Unity Expert.",
   keywords:
-    "Sean Lyons, Full Stack Engineer, Team Lead, Web Development, VR/AR, 3D Game Development, Software Engineering, Unity",
+    "Ian Harding, Full Stack Engineer, Team Lead, Web Development, VR/AR, 3D Game Development, Software Engineering, Unity",
   openGraph: {
     locale: "en_US",
-    siteName: "Sean Lyons",
+    siteName: "Ian Harding",
     type: "website",
-    title: "Sean Lyons",
+    title: "Ian Harding",
     description:
-      "Sean Lyons is a Full Stack Software Engineer, Team Lead, and Unity Expert.",
+      "Ian Harding is a Full Stack Software Engineer, Team Lead, and Unity Expert.",
     url: "https://meikopoulos.com",
     images: [
       {
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Sean Lyons",
+    title: "Ian Harding",
   },
 };
 

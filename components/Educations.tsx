@@ -14,10 +14,10 @@ import { useTheme } from "next-themes";
 
 const educations = [
   {
-    timeline: "Sep 2010 — Sep 2012",
+    timeline: "Aug 2010 — Aug 2012",
     lastDegree: "Master of Science in Computer Science",
-    institution: "Ontario Tech University",
-    logo: "OTU",
+    institution: "San Diego State University",
+    logo: "SDSU",
     previousDegrees: [""],
     description:
       "Advanced algorithms, software architecture, data management, research methodologies, teamwork, technical writing.",
@@ -31,10 +31,10 @@ const educations = [
     ],
   },
   {
-    timeline: "Sep 2006 — Sep 2010",
+    timeline: "Sep 2004 — Sep 2008",
     lastDegree: "Bachelor of Science in Computer Science",
-    institution: "Univeristy of Toronto",
-    logo: "UOT",
+    institution: "Ontario Tech University",
+    logo: "OTU",
     previousDegrees: [""],
     description:
       "Programming fundamentals, system analysis, software engineering principles, data structures, network security, effective communication.",
