@@ -69,7 +69,7 @@ const jobPositions = [
     ],
   },
   {
-    timeline: "Sep 2012 - Nov 2015",
+    timeline: "Sep 2012 - Mar 2014",
     currentPosition: "Backend Developer",
     place: "Fortunes Tech",
     logo: "fortunestech",
